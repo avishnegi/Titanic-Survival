@@ -18,7 +18,7 @@ matplotlib<br>
 Software:
 Google Colab<br>
 
-ALGORITHMS USED <br><br>
+ALGORITHMS USED <br>
 
 K nearest-Neighbors     82.60<br>
 Logistic Regression    78.56 <br>
