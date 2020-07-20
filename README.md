@@ -20,12 +20,9 @@ Google Colab<br>
 
 ALGORITHMS USED <br><br>
 
-K nearest-Neighbors<br>
-DecisionTree<br>
-Logistic Regression<br><br>
-RandomForest<br>
-Support Vector Machine<br>
-Naive Bayes<br>
+K nearest-Neighbors     82.60<br>
+Logistic Regression    78.56 <br>
+Naive Bayes   77.55<br>
 
 PROCEDURE FOLLOWED:<br><br>
   Firstly I have done prerocessing on  my dataset where I changed the column Embarked to numerical format as pre-processing in string is difficult and with numerical format of data it will be easy to get co-relations between attributes. And i have changed sex column to 0,1 where male=0, female=1.<br>
